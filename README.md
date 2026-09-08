@@ -13,8 +13,8 @@
 |---|---|
 |Field|Details|
 |---|---|
-| Student Number | ST10521702 |
-| Student Full Name| Ntokozo Dlamini |
+| Student Number | ST10520360 |
+| Student Full Name| Taylin Boswell |
 | Group | Year1 Group 4 |
 |Module Code| WEDE5020 |
 | Module | Web Development (Introduction) |
@@ -25,28 +25,24 @@
 
 ## Project Overview
 ## Brief History 
-Elegant Events Decor is a small event decoration business based in South Africa that specialises in creating beautiful and memorable event spaces. The company provides decoration services for weddings, birthdays, baby showers, bridal showers, corporate events, graduations, anniversaries, and other special occasions. 
-The business was established to help clients celebrate important moments without the stress of planning and decorating venues themselves. Elegant Events Decor works closely with customers to create customised themes and decorations that suit their style, budget, and event requirements. The company takes pride in its creativity, attention to detail, and excellent customer service. 
+Patty Palace is a local burger spot built on the idea of serving every patty like royalty. Known for its bold flavours and playful atmosphere 
 
 ---
 
 ## Website Goals and Objectives
 Website Goals and Objectives 
 ## Specific Goals 
-•	The main goal of the website is to establish a professional online presence and make it easier for customers to learn about the company's services and request quotations. 
-•	Showcase previous event decorations through a gallery. 
+•	The main goal of the website is to establish a price menu on our burgers so custes can come ready to pay and eat. 
 •	Increase enquiries from potential customers. 
-•	Provide detailed information about decoration services. 
-•	Allow customers to request quotations online. 
-•	Build trust through testimonials and professional branding. 
+•	Provide detailed information about  our services. 
+•	Build trust through by not overpricing  . 
 
 ---
 
 ## Key Performance Indicators (KPIs) 
-•	Receive at least 25 online enquiry form submissions per month. 
-•	Achieve 800 website visitors within the first three months. 
-•	Increase booking enquiries by 20% within six months. 
-•	Receive at least 10 customer reviews through the website during the first six months. 
+•	Receive at least R1200.00 a monuth. 
+•	Achieve 500 website visitors within the first five months.  
+•	Receive at least 50 customer reviews through the website during the first five months. 
 
 ---
 
@@ -81,7 +77,7 @@ Week 01: 31/08/2026 - 04/09/2026
 - 
 
 ## Sitemap
-<img width="1052" height="748" alt="image" src="https://github.com/user-attachments/assets/457fe4cb-118c-4d4c-b48a-ced064c232ce" />
+<img width="1052" height="748" alt="image" src="sitemap.png />
 
 
 ## Changelog
@@ -108,4 +104,3 @@ Planned
 •	W3Schools 
 •	Google Fonts 
 •	Pexels (for royalty-free images) 
-•	Unsplash (for royalty-free images
