@@ -89,6 +89,20 @@ Known limitations for this part: [e.g. JavaScript functionality not yet implemen
 
 
 ## Changelog
+## Changelog
+*Track changes and improvements to the website over time. Add a new entry every time you make a significant update. Most recent entry at the top.*
+
+
+| Date | Version | Change Description |
+|---|---|---|
+| 10/08/2026 | v1.0 | Initial repository setup, added folder structure |
+| 12/08/2026 | v1.1 | Added index.html and basic navigation |
+| 14/08/2026 | v1.2 | Added about_us.html and Enquiry.html |
+| 25/08/2026 | v1.3 | Added initial style.css |
+| | | *Add new rows as the project progresses* |
+
+
+---
 
 ## References
 •	MDN Web Docs 
