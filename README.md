@@ -73,31 +73,22 @@ Week 01: 31/08/2026 - 04/09/2026
 ## Part 1 Details
 
 *(Part 2 and Part 3 will follow in future submissions/edits)*
+Part 2 and Part 3 will follow in future submissions/edits)
+
+Describe exactly what was built/achieved for this specific submission.
+
+Pages completed: index.html, about_us.html, enquiry.html, services.html
+Structure/semantics used: semantics HTML tags - header, nav, main, footer
+Styling approach: basic CSS in style.css, no responsiveness yet
+Known limitations for this part: [e.g. JavaScript functionality not yet implemented, will be added in Part 2/3]
 
 - 
 
 ## Sitemap
-<img width="1052" height="748" alt="image" src="sitemap.png />
+<img width="1052" height="748" alt="image" src="sitemap.png" />
 
 
 ## Changelog
-Version 1.0.0 - Part 1 Submission
-
-Added
-•	Created project repository. 
-•	Added README structure.
-•	Defined project goals and objectives.
-•	Developed initial sitemap
-•	Completed project planning documentation.
-
-Changed
-• Updated project overview.
-• Refined website objectives.
-
-Planned
-• Website wireframes
-• Design prototype.
-•Front-end implementation.
 
 ## References
 •	MDN Web Docs 
