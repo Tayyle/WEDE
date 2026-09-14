@@ -5,7 +5,7 @@
 ## Project Title: 
 
 **PattyPalace**
-- A small event decoration business that specialises in creating beautiful and memorable event spaces.
+- Patty Palace is a local burger spot built on the idea of serving every patty like royalty. Known for its bold flavours and playful atmosphere 
 
   ---
 
@@ -34,8 +34,8 @@ Website Goals and Objectives
 ## Specific Goals 
 •	The main goal of the website is to establish a price menu on our burgers so custes can come ready to pay and eat. 
 •	Increase enquiries from potential customers. 
-•	Provide detailed information about  our services. 
-•	Build trust through by not overpricing  . 
+•	Provide original patties for our customers 
+•	Build trust through by not overpricing. 
 
 ---
 
@@ -78,7 +78,7 @@ Part 2 and Part 3 will follow in future submissions/edits)
 Describe exactly what was built/achieved for this specific submission.
 
 Pages completed: index.html, about_us.html, enquiry.html, services.html
-Structure/semantics used: semantics HTML tags - header, nav, main, footer
+Structure/semantics used: semantics HTML tags - header, nav, main.
 Styling approach: basic CSS in style.css, no responsiveness yet
 Known limitations for this part: [e.g. JavaScript functionality not yet implemented, will be added in Part 2/3]
 
