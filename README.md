@@ -105,7 +105,6 @@ Known limitations for this part: [e.g. JavaScript functionality not yet implemen
 ---
 
 ## References
-•	MDN Web Docs 
 •	W3Schools 
 •	Google Fonts 
 •	Pexels (for royalty-free images) 
